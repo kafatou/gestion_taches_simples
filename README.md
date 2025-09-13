@@ -20,7 +20,7 @@ IDE compatible (Android Studio, VS Code)
 
 ### Étapes d'installation
 #### Cloner le projet
-git clone <url-du-repository>
+git clone https://github.com/kafatou/gestion_taches_simples
 cd gestion_taches
 
 #### Installer les dépendances
